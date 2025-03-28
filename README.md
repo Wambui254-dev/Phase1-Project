@@ -39,8 +39,12 @@ To ensure high-quality and accurate analysis, these are the following steps I wi
 
 ## Actionable Insights
 - Identify aircraft with the **lowest accident rates**.
-  ![Image](<img width="623" alt="Model With the most accident rate" src="https://github.com/user-attachments/assets/2244d18e-01ba-42d5-a47f-e1c9c203433d" />)
-- Recommend **cost-effective and safe aircraft** for purchase.
+  ![Image](https://github.com/Wambui254-dev/Phase1-Project_/blob/989822cab80b62191accd1da09e933f42614142a/Model%20With%20the%20most%20accident%20rate.png)
+- Identify the model with the most accident rates.
+ ![Image](https://github.com/Wambui254-dev/Phase1-Project_/blob/989822cab80b62191accd1da09e933f42614142a/Model%20With%20the%20most%20accident%20rate.png)
+## Interactive Dashboard 
+![Image](https://github.com/Wambui254-dev/Phase1-Project_/blob/989822cab80b62191accd1da09e933f42614142a/Tableau%20AviationD.Set%20Visualization.png)
+- Recommend **safe aircraft** for purchase.
 - Offer insights into **common risk factors** affecting aviation safety.
 
 ## Conclusion
