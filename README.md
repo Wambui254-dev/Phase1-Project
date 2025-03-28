@@ -9,7 +9,6 @@ Our company is interested in purchasing and operating airplanes for commercial a
 
 ## Objectives
 - Analyze safety records and incident reports of various aircraft.
-- Evaluate operational costs, maintenance requirements, and reliability.
 - Identify key risk factors and trends in aircraft safety.
 - Provide data-driven recommendations for aircraft selection.
 
@@ -36,12 +35,11 @@ To ensure high-quality and accurate analysis, these are the following steps I wi
 ## Deliverables
 - A comprehensive risk assessment report
 - Visual dashboards summarizing key insights
-- A ranked list of aircraft based on risk analysis
 - A cleaned and structured aviation accident dataset
 
 ## Actionable Insights
 - Identify aircraft with the **lowest accident rates**.
-- Provide a **risk ranking** of aircraft based on maintenance and operational performance.
+  ![Image](<img width="623" alt="Model With the most accident rate" src="https://github.com/user-attachments/assets/2244d18e-01ba-42d5-a47f-e1c9c203433d" />)
 - Recommend **cost-effective and safe aircraft** for purchase.
 - Offer insights into **common risk factors** affecting aviation safety.
 
