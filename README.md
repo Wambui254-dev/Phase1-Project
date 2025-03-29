@@ -44,8 +44,9 @@ To ensure high-quality and accurate analysis, these are the following steps I wi
  ![Image](https://github.com/Wambui254-dev/Phase1-Project_/blob/989822cab80b62191accd1da09e933f42614142a/Model%20With%20the%20most%20accident%20rate.png)
 ## Interactive Dashboard 
 ![Image](https://github.com/Wambui254-dev/Phase1-Project_/blob/989822cab80b62191accd1da09e933f42614142a/Tableau%20AviationD.Set%20Visualization.png)
-- Recommend **safe aircraft** for purchase.
-- Offer insights into **common risk factors** affecting aviation safety.
+- Recommend **safe aircraft** for purchase. For instance, prioritize modern aircraft with lower historical
+accident rates.
+- Offer insights into **common risk factors** affecting aviation safety. in Comparison to that, most of the pilots are affected by weather conditions as a common risk factor. Therefore, employ more educational insights in guiding the pilot
 
 ## Conclusion
 By leveraging data analytics, this project will help our company make informed decisions on aircraft purchases, ensuring safety and financial viability in the aviation sector.
